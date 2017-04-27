@@ -1,0 +1,10 @@
+{
+    "tables": [
+        "TABLE_1",
+        "TABLE_2"
+    ],
+    "sourceConnectionString": "Server=localhost;Database=WIP1;Trusted_Connection=true;User ID=WIP1;Password=<password>",
+    "targetConnectionString": "Server=localhost;Database=WIP2;Trusted_Connection=true;User ID=WIP2;Password=<password>",
+    "batchSize": 500,
+    "notifyAfter": 1000
+}
